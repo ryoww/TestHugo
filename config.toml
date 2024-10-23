@@ -1,0 +1,4 @@
+baseURL = 'https://ryoww.github.io/TestHugo'
+languageCode = 'ja-jp'
+title = "Test Wiki"
+theme = "hugo-theme-m10c"
